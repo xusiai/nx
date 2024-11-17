@@ -1,18 +1,18 @@
 {
-  base00 = "232136";
-  base01 = "2a273f";
-  base02 = "393552";
-  base03 = "6e6a86";
-  base04 = "908caa";
-  base05 = "e0def4";
-  base06 = "e0def4";
-  base07 = "56526e";
-  base0D = "c4a7e7";
-  base0E = "f6c177";
-  base0C = "9ccfd8";
-  base0A = "ea9a97";
-  base09 = "f6c177";
-  base0B = "3e8fb0";
-  base08 = "eb6f92";
-  base0F = "56526e";
+  base00 = "05080a"; # Obsidian
+  base01 = "0a1014"; # Liquorice
+  base02 = "0f181e"; # Charcoal
+  base03 = "141f27"; # Asphalt
+  base04 = "192630"; # Gunmetal
+  base05 = "dce2f7"; # Marshmallow
+  base06 = "f8eae7"; # Linen
+  base07 = "ccd3fe"; # Lavender
+  base08 = "ffd4e9"; # Azalea
+  base09 = "fbcbae"; # Apricot
+  base0A = "fbebc8"; # Blond
+  base0B = "f7ddff"; # Lace
+  base0C = "c5edc1"; # Tea
+  base0D = "c9fff7"; # Celeste
+  base0E = "dcc3f9"; # Anemone
+  base0F = "f6dddd"; # Lycoris
 }

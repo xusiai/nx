@@ -25,6 +25,6 @@
       };
     };
 in {
-  calypso = mkHost "calypso" "x86_64-linux";
-  pandora = mkHost "pandora" "aarch64-linux";
+  naiad = mkHost "naiad" "x86_64-linux";
+  despina = mkHost "despina" "x86_64-linux";
 }

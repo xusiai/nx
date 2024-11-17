@@ -5,21 +5,14 @@ in {
     inherit
       (pkgs)
       wl-clipboard
-      hyprlock
-      brightnessctl
-      ttyper
       librewolf
       mpv
-      tdesktop
       ytmdl
       yt-dlp
-      transmission_4-gtk
-      ledger_agent
-      nicotine-plus
+      jellyfinmediaplayer
       imv
-      signal-desktop
-      gimp
-      keepassxc
+      scli
+      signal-cli
       clang
       gnumake
       cargo
@@ -30,11 +23,6 @@ in {
       zoxide
       fzf
       eza
-      gping
-      dogdns
-      onefetch
-      cpufetch
-      microfetch
       tealdeer
       glow
       hyperfine
